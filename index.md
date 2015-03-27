@@ -28,4 +28,6 @@ Track us down at [Electric Book Works](http://electricbookworks.com), where Pape
 
 ## Looking for past exam papers?
 
-Paperight provided a valuable collection of South African Grade 12 exam papers from 2008 to 2012. [You'll find them on Dropbox here](https://www.dropbox.com/sh/c9zrxh9iewwnd5c/AAAOJD3txrh0DuR0hhcmKedSa?dl=0).
+Paperight provided a valuable collection of South African Grade 12 exam papers from 2008 to 2012. 
+
+[They're here on Dropbox](https://www.dropbox.com/sh/c9zrxh9iewwnd5c/AAAOJD3txrh0DuR0hhcmKedSa?dl=0), help yourself.
