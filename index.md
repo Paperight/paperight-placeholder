@@ -3,7 +3,7 @@ title: Paperight, RIP
 layout: default
 ---
 
-![Paperight logo](/images/paperight-logo-circle.svg)
+![Paperight logo]({{ site.baseurl }}/images/paperight-logo-circle.svg)
 {:.logo .animated .wobble}
 
 # So long, Paperight
