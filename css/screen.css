@@ -172,3 +172,6 @@ em.highlight {
 .logo img {
 	width: 7em;
 }
+#footer img {
+	max-width: 100%;
+}
