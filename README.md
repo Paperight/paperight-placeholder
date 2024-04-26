@@ -1,3 +1,3 @@
-# A Paperight placeholder
+# The Paperight legacy
 
-In December 2014 we closed Paperight, and the online service closed at the end of March 2015. This is a placeholder for [paperight.com](http://paperight.com).
+Between December 2014 and March, Paperight initiative was sunsetted. This is a legacy one-pager with links to its story.

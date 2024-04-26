@@ -19,43 +19,19 @@ body {
 }
 #wrapper{
 	clear: both;
-	max-width: 960px;
+	max-width: 45rem;
 	margin: auto;
 	padding: 0 0.3em 0 0.3em;
 }
 #footer {
-	margin: 2em 0 0 0;
+	margin: 4rem 0 0 0;
 	padding: 1em 0.3em 2em 0.3em;
 	background-color: white;
 }
 .footer-content {
 	clear: both;
-	max-width: 960px;
+	max-width: 45rem;
 	margin: auto;
-	color: grey;
-}
-
-/* 
- * Nav bar including 'Close' button for chapter and frontmatter layouts
- */
- 
-#nav-bar {
-	display: none; /* not using this at the mo */
-	position: fixed;
-	top: 0;
-	background-color: white;
-	height: 2em;
-	width: 100%;
-	opacity: 0.9;
-	border-bottom: 1px solid #f9f9f9;
-}
-a.nav-bar-close {
-	text-decoration: none;
-	color: #dddddd;
-	float: right;
-	margin: 0.3em 0.3em 0 0;
-}
-a.nav-bar-close:hover {
 	color: grey;
 }
 
@@ -83,7 +59,6 @@ h3 {
 	margin: 1.5em 0 0.5em 0;
 	padding-top: 0.5em;
 }
-p, ul, ol, blockquote, dl {}
 p {
 	margin: 0 0 0.5em 0;
 }
@@ -117,8 +92,6 @@ dt {
 	margin: 0 0 0.25em 0;
 	font-weight: 600;
 }
-dd {
-}
 table {
 	border-collapse: collapse;
 }
@@ -136,8 +109,7 @@ pre, code {
 	font-size: 0.9em;
 }
 a {
-	text-decoration: none;
-	color: #ccc;
+	color: white;
 }
 a:hover {
 	color: inherit;
